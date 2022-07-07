@@ -1,13 +1,14 @@
 
 #cv{
     width: 65%;
-    
+    font-size: 1.2rem;
     font-family: 'Poppins', sans-serif;
     margin-top: 6mm;
     
 }
 img{
     border-radius:50% ;
+    margin-top: 20px;
 }
 div{
     margin-left: 12mm;
@@ -16,7 +17,7 @@ div{
     margin-left: 11mm;
 }
 .back{
-    background-color: tan;
+    background-color: rgba(210, 208, 215, 0.9);
     width: 100%;
    
 }
@@ -32,7 +33,7 @@ a{
     color: white;
 }
 a:hover{
-    color: tan;
+    color: rgba(210, 208, 215, 0.9);
     text-decoration: none;
 
 }
